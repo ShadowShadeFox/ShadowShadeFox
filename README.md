@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ShadowShadeFox
+- 👀 I’m interested in Roblox and C++ Game Development
+- 🌱 I’m currently learning C++ and Lua
+- 😄 Pronouns: Male Furry Fox
+- ⚡ Fun fact: I have a boyfriend and like seeing people happy!
