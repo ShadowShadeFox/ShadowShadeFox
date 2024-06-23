@@ -3,7 +3,7 @@ Hello, World! My name is Shadow Shade Fox, you can call me Shadow. My hobbies ar
 
 ## Facts
 - I'm a male.
-- I have a boyfriend.
+- I have a girlfriend.
 - I like to see people happy.
 - Roblox and C++ Game Developer.
 - I'm a Youtuber.
