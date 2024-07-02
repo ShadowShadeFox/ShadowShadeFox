@@ -8,6 +8,5 @@ Hello, World! My name is Shadow Shade Fox, you can call me Shadow. My hobbies ar
 - I'm a Youtuber.
 
 ## Check out my
-- [Roblox Profile.](https://www.roblox.com/users/3315941739/profile) 
-- [Youtube Channel.](https://www.youtube.com/channel/UCOfsc5hZyUOg8zxtSBu-fZQ)
+- [Roblox Profile.](https://www.roblox.com/users/3315941739/profile)
 - [Discord Server](https://discord.gg/G8uZzFMfbD)
